@@ -11,13 +11,13 @@ This project is a simple web application that calculates the age of a user from 
 
 ### Home Page
 
-![Home Page](path/to/homepage_screenshot.png)
+![Home Page](https://github.com/saurabhsg99/Age-Calculator/blob/main/Screenshots/Screenshot%202024-06-20%20121043.png)
 
 *Description: This is the initial screen where the user can input their birthdate.*
 
 ### Age Calculation Result
 
-![Age Calculation Result](path/to/result_screenshot.png)
+![Age Calculation Result](https://github.com/saurabhsg99/Age-Calculator/blob/main/Screenshots/Screenshot%202024-06-20%20121340.png)
 
 *Description: This screen displays the calculated age based on the input birthdate.*
 
